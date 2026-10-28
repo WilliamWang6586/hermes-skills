@@ -1,0 +1,432 @@
+[
+  {
+    "name": "memory-system",
+    "desc": "Use when setting up or improving an agent memory workflow for OpenClaw, Codex, or Obsidian with MEMORY.md, daily notes, session recovery, and optional OpenViking support.",
+    "cn": "",
+    "path": "agent-memory-system-guide",
+    "bytes": 21138,
+    "policy": "public",
+    "homepage": "https://github.com/cjke84/agent-memory-system-guide",
+    "version": ""
+  },
+  {
+    "name": "agent-reach",
+    "desc": ">-",
+    "cn": "零配置联网调研：Jina/YouTube/V2EX/RSS/B站/GitHub 免 key 抓取",
+    "path": "agent-reach",
+    "bytes": 5020,
+    "policy": "public",
+    "homepage": "https://github.com/Panniantong/Agent-Reach",
+    "version": "1.6.0"
+  },
+  {
+    "name": "ai-text-humanizer",
+    "desc": "让AI生成的内容读起来像真人写的！精准检测文本AI浓度，提供人性化改写+可下载检测报告，全场景适配（公众号/抖音/小红书/电商/小说/职场/知乎）",
+    "cn": "把 AI 味文本改写成自然人类口吻，附检测报告",
+    "path": "ai-text-humanizer",
+    "bytes": 10761,
+    "policy": "public",
+    "homepage": "",
+    "version": "0.0.2"
+  },
+  {
+    "name": "autocad-drawing",
+    "desc": "用 COM/ActiveX 驱动本机正在运行的完整版 AutoCAD，按参数化规格绘制、修改与读取二维图形，交付 dwg 并回读校验几何。用于按给定尺寸画零件/平面图、批量或重复绘图、把自然语言描述转成图纸、从图纸里测量核对尺寸。不用于 AutoCAD LT、BricsCAD/ZWCAD 等非 AutoCAD 平台或纯 dwg 格式转换。",
+    "cn": "用 COM 驱动本机 AutoCAD 参数化绘图、读图、落盘校验",
+    "path": "autocad-drawing",
+    "bytes": 10644,
+    "policy": "public",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "browser-testing-with-devtools",
+    "desc": "Tests in real browsers via Chrome DevTools MCP. Use when building or debugging anything that runs in a browser. Use when you need to inspect the DOM, capture console errors, analyze network requests, profile performance, or verify visual output with real runtime data. Requires the chrome-devtools MC",
+    "cn": "",
+    "path": "browser-testing-with-devtools",
+    "bytes": 14539,
+    "policy": "public",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "cad-automation",
+    "desc": "",
+    "cn": "CAD 二次开发知识库：pyautocad/C#/LISP 自动化绘图",
+    "path": "cad-automation",
+    "bytes": 33053,
+    "policy": "public",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "cad-designer",
+    "desc": "CAD设计狮——融合四大IMA CAD知识库的专业设计指导skill。专注CAD制图规范(国标)、参数化设计、图层管理系统、标注标准、批量出图策略、性能优化、AI+CAD趋势与设计检查清单。cad-automation负责写代码画图，CAD设计狮负责告诉AI\"怎么设计才对\"。",
+    "cn": "CAD 制图规范（国标）+参数化设计指导",
+    "path": "cad-designer",
+    "bytes": 22401,
+    "policy": "public",
+    "homepage": "",
+    "version": "1.1.0"
+  },
+  {
+    "name": "content-multi-platform",
+    "desc": "一篇内容一键改写为小红书/公众号/知乎/头条/抖音/B站/视频号/微博/快手九大平台适配版本，精准匹配各平台调性、排版规范和流量规则。支持多种内容类型（观点/教程/种草/故事/新闻），自动生成多版标题、标签策略、封面建议和发布时段优化。当用户需要多平台改写、一键分发、内容适配、跨平台发布、改写成小红书、改写成公众号、发知乎、发头条、内容分发、多平台适配时使用。",
+    "cn": "一篇内容改写为九大平台适配版本（小红书/公众号/知乎/抖音…）",
+    "path": "content-multi-platform",
+    "bytes": 25433,
+    "policy": "public",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "hainan-university-baixiaosheng",
+    "desc": ">-",
+    "cn": "海南大学知识库：校区、选课、专业、宿舍等",
+    "path": "hainan-university-baixiaosheng",
+    "bytes": 6292,
+    "policy": "public",
+    "homepage": "",
+    "version": "1.2.0"
+  },
+  {
+    "name": "hallmark",
+    "desc": "Anti-AI-slop design skill for greenfield pages, audits, redesigns, and design extraction from URLs or screenshots. Use when the user asks to build a new app or landing page, wants to redesign something, invokes Hallmark by name, or uses audit/redesign/study.",
+    "cn": "反 AI-slop 网页设计规范：新建页面与审计",
+    "path": "hallmark",
+    "bytes": 67460,
+    "policy": "public",
+    "homepage": "",
+    "version": "1.1.0"
+  },
+  {
+    "name": "humanizer-zh",
+    "desc": "|",
+    "cn": "中文去 AI 味写作（维基百科 AI 写作特征清单）",
+    "path": "humanizer-zh",
+    "bytes": 18898,
+    "policy": "public",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "incremental-implementation",
+    "desc": "Delivers changes incrementally. Use when implementing any feature or change that touches more than one file. Use when you're about to write a large amount of code at once, or when a task feels too big to land in one step.",
+    "cn": "小步增量实现，每次改动可验证",
+    "path": "incremental-implementation",
+    "bytes": 9501,
+    "policy": "public",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "planning-and-task-breakdown",
+    "desc": "Breaks work into ordered tasks. Use when you have a spec or clear requirements and need to break work into implementable tasks. Use when a task feels too large to start, when you need to estimate scope, or when parallel work is possible.",
+    "cn": "把需求拆成有顺序、可执行的任务",
+    "path": "planning-and-task-breakdown",
+    "bytes": 7653,
+    "policy": "public",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "ppt-master",
+    "desc": ">",
+    "cn": "生成原生可编辑 PPTX（模板+渲染+校验，89MB 含资源）",
+    "path": "ppt-master",
+    "bytes": 10043,
+    "policy": "public",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "reverse-engineer-anything",
+    "desc": "Reverse engineer native, managed, Electron/JavaScript, packaged, firmware, and browser targets with REA. Use shipped-artifact or requested runtime evidence to explain features, compare versions, decompile code, or guide a reconstruction. Skip REA for ordinary source-repository architecture analysis.",
+    "cn": "逆向分析原生/托管/Electron/移动端程序",
+    "path": "reverse-engineer-anything",
+    "bytes": 23523,
+    "policy": "public",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "scientific-figure-making",
+    "desc": ">-",
+    "cn": "论文级 matplotlib 配图规范",
+    "path": "scientific-figure-making",
+    "bytes": 2242,
+    "policy": "public",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "spec-driven-development",
+    "desc": "Creates specs before coding. Use when starting a new project, feature, or significant change and no specification exists yet. Use when requirements are unclear, ambiguous, or only exist as a vague idea.",
+    "cn": "先写规格再写代码",
+    "path": "spec-driven-development",
+    "bytes": 8527,
+    "policy": "public",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "tech-daily-report",
+    "desc": "生成「科技观察报」HTML 报纸（米色纸张+衬线字体+深度内容+全中文+可点击链接），覆盖 AI·半导体·智能汽车·摄影器材·机器人·量子·政策 七大板块。当用户说\"做日报\"\"生成日报\"\"今日科技\"\"补X号的日报\"时使用。",
+    "cn": "",
+    "path": "tech-daily-report",
+    "bytes": 27090,
+    "policy": "private",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "wayfinder",
+    "desc": "Plan a huge chunk of work (more than one agent session can hold) as a shared map of decision tickets on your issue tracker, and resolve them one at a time until the way to the destination is clear.",
+    "cn": "规划超出单次会话的大段工作",
+    "path": "wayfinder",
+    "bytes": 11908,
+    "policy": "public",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "web-access",
+    "desc": "",
+    "cn": "统一联网通道：搜索、抓站、登录后操作",
+    "path": "web-access",
+    "bytes": 18430,
+    "policy": "public",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "codex",
+    "desc": "Delegate coding to OpenAI Codex CLI (features, PRs).",
+    "cn": "把编码任务委派给 OpenAI Codex CLI",
+    "path": "autonomous-ai-agents/codex",
+    "bytes": 5844,
+    "policy": "public",
+    "homepage": "",
+    "version": "1.1.0"
+  },
+  {
+    "name": "hermes-agent",
+    "desc": "Configure, extend, or contribute to Hermes Agent.",
+    "cn": "Hermes Agent 自身的配置/扩展/贡献指南",
+    "path": "autonomous-ai-agents/hermes-agent",
+    "bytes": 51822,
+    "policy": "public",
+    "homepage": "",
+    "version": "2.3.0"
+  },
+  {
+    "name": "claude-design",
+    "desc": "Design one-off HTML artifacts (landing, deck, prototype).",
+    "cn": "单页 HTML 设计（落地页/演示/原型）",
+    "path": "creative/claude-design",
+    "bytes": 25117,
+    "policy": "public",
+    "homepage": "",
+    "version": "1.1.0"
+  },
+  {
+    "name": "interactive-map-design",
+    "desc": "Design patterns for creating interactive maps and geographic data visualizations using HTML, CSS, and JavaScript.",
+    "cn": "交互地图设计模式",
+    "path": "creative/interactive-map-design",
+    "bytes": 8617,
+    "policy": "public",
+    "homepage": "",
+    "version": "1.0.0"
+  },
+  {
+    "name": "windows-maintenance",
+    "desc": "Windows 系统维护与自动化——垃圾文件清理、大目录归档/整库重组（md5 去重、搬迁后修计划任务与写死路径）、进程管理（含权限坑）、计划任务、开机自启（启动文件夹/.vbs/.bat）、WSH 脚本报错(80070003 路径乱码)、Edge headless 转 PDF/截图、PowerShell 5.1 中文编码坑。触发场景：清理垃圾/磁盘空间、整理文件夹/归档/删文件夹、退出程序、创建定时任务、开机弹 Windows Script Host 报错、设置开机自启、HTML转PDF、PS脚本中文乱码。",
+    "cn": "Windows 清理、大目录归档、计划任务修复",
+    "path": "devops/windows-maintenance",
+    "bytes": 32273,
+    "policy": "public",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "windows-wsl2-script-exec",
+    "desc": ">-",
+    "cn": "Windows+WSL2 上写/跑脚本的路由与坑",
+    "path": "environment/windows-wsl2-script-exec",
+    "bytes": 38608,
+    "policy": "public",
+    "homepage": "",
+    "version": "1.3"
+  },
+  {
+    "name": "minecraft-forge-modpack-debug",
+    "desc": ">-",
+    "cn": "Forge 整合包崩溃排查（MC 启动失败）",
+    "path": "gaming/minecraft-forge-modpack-debug",
+    "bytes": 6932,
+    "policy": "private",
+    "homepage": "",
+    "version": "1.0"
+  },
+  {
+    "name": "hermes-cn-desktop-ops",
+    "desc": "Hermes CN Desktop 运维唯一总入口（umbrella）：升级/卸载备份与数据目录、config.yaml/providers 修复与 llm provider 坑（智谱/千问/书生）、hermes CLI、MCP 接入、消息平台（微信/QQ Bot）网关断连与发文件、Dashboard/手机遥控、token 成本优化、代理残留断连、桌面端 UI 状态（置顶/模型会话级覆盖）、DashScope 视觉、**视觉/语音能力安装（`hermes-vision-setup` + `hermes-voice-setup` 已并入）**、记忆外置。触发词：Hermes 升级/卸载/丢数据、",
+    "cn": "Hermes 桌面端运维总入口：升级/配置/网关/语音视觉",
+    "path": "hermes/hermes-cn-desktop-ops",
+    "bytes": 27695,
+    "policy": "private",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "download-and-verify",
+    "desc": "找游戏/软件的可靠下载源并验证下载文件安全性。触发词：下载XX游戏/软件、找稳定可靠的下载源、扫描有没有病毒/有毒、官方下载、要破解版、装到D盘。覆盖 novelgame.jp 官方免费游戏挖掘、商业软件破解方案调研（先交信息表再动手）、GitHub 逆向仓库搜索、Electron 桌面软件授权绕过层级模型、官方中文站 CDN 取原包、大文件断点续传、SHA-256+ZIP审计+Defender扫描+运行时行为验证四重检查。",
+    "cn": "找可靠下载源 + 四重安全校验（魔数/SHA256/Defender/行为）",
+    "path": "network/download-and-verify",
+    "bytes": 11531,
+    "policy": "public",
+    "homepage": "",
+    "version": "1.2.0"
+  },
+  {
+    "name": "memory-library-ops",
+    "desc": ">-",
+    "cn": "Hermes 记忆库外置与压缩运维",
+    "path": "note-taking/memory-library-ops",
+    "bytes": 25264,
+    "policy": "private",
+    "homepage": "",
+    "version": "1.4"
+  },
+  {
+    "name": "document-generation",
+    "desc": ">-",
+    "cn": "生成 Word/PDF/HTML 文档（中文排版、Edge 转 PDF）",
+    "path": "productivity/document-generation",
+    "bytes": 19735,
+    "policy": "public",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "officecli",
+    "desc": "Create, analyze, proofread, and modify Office documents (.docx, .xlsx, .pptx) using the officecli CLI tool. Use when the user wants to create, inspect, check formatting, find issues, add charts, or modify Office documents.",
+    "cn": "Office 文档创建/分析/校对/修改",
+    "path": "productivity/officecli",
+    "bytes": 4037,
+    "policy": "public",
+    "homepage": "https://officecli.ai",
+    "version": "1.0.0"
+  },
+  {
+    "name": "ppt-master-ops",
+    "desc": ">-",
+    "cn": "ppt-master 实战运维：路由、门禁、坑（中文汇报/竞选/答辩）",
+    "path": "productivity/ppt-master-ops",
+    "bytes": 34948,
+    "policy": "public",
+    "homepage": "",
+    "version": "1.4"
+  },
+  {
+    "name": "china-university-web-research",
+    "desc": ">-",
+    "cn": "高校官网抓取与批量下载（中文 URL、编码坑）",
+    "path": "research/china-university-web-research",
+    "bytes": 17483,
+    "policy": "public",
+    "homepage": "",
+    "version": "1.3"
+  },
+  {
+    "name": "china-web-research",
+    "desc": ">-",
+    "cn": "中国大陆网络环境下的检索与抓取实战（B站/Bing/反爬）",
+    "path": "research/china-web-research",
+    "bytes": 18216,
+    "policy": "public",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "jlu-knowledge-ops",
+    "desc": ">-",
+    "cn": "吉林大学知识库运维+发布全流程",
+    "path": "research/jlu-knowledge-ops",
+    "bytes": 54086,
+    "policy": "campus",
+    "homepage": "",
+    "version": ""
+  },
+  {
+    "name": "c-native-cli-programs",
+    "desc": ">-",
+    "cn": "用 C/C++ 写单文件 CLI 程序并自动化测试",
+    "path": "software-development/c-native-cli-programs",
+    "bytes": 10604,
+    "policy": "campus",
+    "homepage": "",
+    "version": "1.0"
+  },
+  {
+    "name": "plan",
+    "desc": "Plan mode: write an actionable markdown plan to .hermes/plans/, no execution. Bite-sized tasks, exact paths, complete code.",
+    "cn": "写可执行的 markdown 计划",
+    "path": "software-development/plan",
+    "bytes": 8974,
+    "policy": "public",
+    "homepage": "",
+    "version": "2.0.0"
+  },
+  {
+    "name": "python-beginner-teaching",
+    "desc": ">-",
+    "cn": "零基础 Python 教学：周任务包、review、补缺口",
+    "path": "software-development/python-beginner-teaching",
+    "bytes": 31542,
+    "policy": "campus",
+    "homepage": "",
+    "version": "2.4"
+  },
+  {
+    "name": "skill-collection-install",
+    "desc": ">-",
+    "cn": "从 GitHub 技能合集批量安装到 Hermes（含 .ps1 编码坑）",
+    "path": "software-development/skill-collection-install",
+    "bytes": 24279,
+    "policy": "public",
+    "homepage": "",
+    "version": "1.2"
+  },
+  {
+    "name": "test-driven-development",
+    "desc": "TDD: enforce RED-GREEN-REFACTOR, tests before code.",
+    "cn": "TDD：红-绿-重构，测试先写",
+    "path": "software-development/test-driven-development",
+    "bytes": 10306,
+    "policy": "public",
+    "homepage": "",
+    "version": "1.1.0"
+  },
+  {
+    "name": "vscode-agent-pairing",
+    "desc": ">-",
+    "cn": "把代码写进用户正开着的 VSCode",
+    "path": "software-development/vscode-agent-pairing",
+    "bytes": 5415,
+    "policy": "public",
+    "homepage": "",
+    "version": "1.0.0"
+  },
+  {
+    "name": "xiaping",
+    "desc": "虾评 Agent 技能交易平台对接指南。当用户提到「装一个 X 技能」「我做了个技能想发布」「评测/打分某个技能」「赚虾米/兑换虾米」「找类似 X 的技能」「许愿求一个技能」「看技能排行榜」，或访问了 https://xiaping.coze.com 任意页面、复制了某条 curl 口令时使用；提供注册、下载、发布、评测、虾米经济、任务系统、站内信、版本协议等所有 API 调用规范。",
+    "cn": "虾评技能交易平台 API 对接（发布/下载/评测）",
+    "path": "software-development/xiaping",
+    "bytes": 35815,
+    "policy": "public",
+    "homepage": "https://xiaping.coze.com",
+    "version": "260517"
+  }
+]
